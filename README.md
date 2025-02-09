@@ -1,0 +1,1 @@
+This repo contains my journey for learning to build different kinds of application taken from (this repo)[https://github.com/practical-tutorials/project-based-learning].
